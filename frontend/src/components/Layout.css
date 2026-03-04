@@ -1,0 +1,25 @@
+.layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.layout-main {
+  flex: 1;
+  margin-left: var(--sidebar-width);
+  padding: 1.5rem;
+  background: #f8fafc;
+  min-height: 100vh;
+  transition: margin-left 0.2s ease;
+}
+
+.layout-main--collapsed {
+  margin-left: var(--sidebar-collapsed-width);
+}
+
+@media (max-width: 768px) {
+  .layout-main {
+    margin-left: 0 !important;
+    padding: 1rem;
+    padding-top: 3.5rem;
+  }
+}
