@@ -1,0 +1,402 @@
+[
+  {
+    "id": "9b98c2f7-7eea-4afd-b07f-082efaac6e67",
+    "date": "2025-12-31",
+    "description": "Monthly salary",
+    "amount": 4500.0,
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": "f151c312-5991-4ebf-ba00-af712f151970",
+    "date": "2025-12-15",
+    "description": "Freelance web design project",
+    "amount": 850.0,
+    "category": "Freelance",
+    "type": "income"
+  },
+  {
+    "id": "5f774692-493d-4ea3-a294-698f42cad37c",
+    "date": "2025-12-10",
+    "description": "Freelance logo design",
+    "amount": 250.0,
+    "category": "Freelance",
+    "type": "income"
+  },
+  {
+    "id": "60473f55-52e0-4373-87c6-28bc186a4908",
+    "date": "2026-01-31",
+    "description": "Monthly salary",
+    "amount": 4500.0,
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": "4aaa2fc4-86b6-41ed-8aa1-1f804f592abd",
+    "date": "2026-01-20",
+    "description": "Freelance consulting",
+    "amount": 1200.0,
+    "category": "Freelance",
+    "type": "income"
+  },
+  {
+    "id": "81532410-3fb6-44d9-8c8d-f9b8c2ff7245",
+    "date": "2026-01-08",
+    "description": "Side project payment",
+    "amount": 400.0,
+    "category": "Freelance",
+    "type": "income"
+  },
+  {
+    "id": "d52565f2-4218-44f5-b1d5-5f4b8d88ae78",
+    "date": "2026-02-28",
+    "description": "Monthly salary",
+    "amount": 4500.0,
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": "1fe375a5-db60-4237-b7a5-a31d5964b952",
+    "date": "2026-02-14",
+    "description": "Freelance mobile app work",
+    "amount": 950.0,
+    "category": "Freelance",
+    "type": "income"
+  },
+  {
+    "id": "0a88051e-ff55-4e7b-8626-1fe1b6746a63",
+    "date": "2026-02-03",
+    "description": "Referral bonus",
+    "amount": 150.0,
+    "category": "Other",
+    "type": "income"
+  },
+  {
+    "id": "6fea02f8-c177-45ae-8e9d-2d2feb461436",
+    "date": "2025-12-01",
+    "description": "Monthly rent",
+    "amount": 1200.0,
+    "category": "Bills",
+    "type": "expense"
+  },
+  {
+    "id": "9c6d6dfc-265b-469c-94a1-6a482c0eeff4",
+    "date": "2025-12-02",
+    "description": "Grocery shopping",
+    "amount": 87.45,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "8f47d61d-87b1-422a-adfe-a4cbfae175d1",
+    "date": "2025-12-03",
+    "description": "Metro card top-up",
+    "amount": 45.0,
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "3b72df3d-3b1f-40ed-8fcc-e275b7442661",
+    "date": "2025-12-05",
+    "description": "Electricity bill",
+    "amount": 78.2,
+    "category": "Bills",
+    "type": "expense"
+  },
+  {
+    "id": "672f020a-e9e6-417e-b072-bd65d7550b1a",
+    "date": "2025-12-07",
+    "description": "Restaurant dinner",
+    "amount": 62.5,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "f81a10d3-28b0-4ab2-91fc-2205307f3562",
+    "date": "2025-12-09",
+    "description": "Netflix subscription",
+    "amount": 15.99,
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "92df4459-93a3-481c-b9d9-a0a4c6453db5",
+    "date": "2025-12-11",
+    "description": "Clothing haul",
+    "amount": 134.99,
+    "category": "Shopping",
+    "type": "expense"
+  },
+  {
+    "id": "d2b249a3-8e07-4afb-9ce9-fae4f2c3c21b",
+    "date": "2025-12-12",
+    "description": "Grocery run",
+    "amount": 55.3,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "913fb4a9-d4ca-4816-a9d0-45ebd7bca97a",
+    "date": "2025-12-14",
+    "description": "Uber rides",
+    "amount": 32.4,
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "0dd9b2dd-aaee-4b11-b146-172d1ab95039",
+    "date": "2025-12-16",
+    "description": "Movie tickets",
+    "amount": 28.0,
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "9fec7c1f-56a5-499e-8cdc-885d83af8d47",
+    "date": "2025-12-18",
+    "description": "Pharmacy",
+    "amount": 24.75,
+    "category": "Other",
+    "type": "expense"
+  },
+  {
+    "id": "91ec80d5-1c28-48db-b071-dc4d55119b99",
+    "date": "2025-12-20",
+    "description": "Christmas gifts shopping",
+    "amount": 210.5,
+    "category": "Shopping",
+    "type": "expense"
+  },
+  {
+    "id": "0d2a899b-b233-4a49-97b3-9ac2ce78e8b4",
+    "date": "2025-12-22",
+    "description": "Holiday dinner out",
+    "amount": 95.0,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "f4740602-40a0-432a-8b82-173650ad2841",
+    "date": "2025-12-24",
+    "description": "Train tickets home",
+    "amount": 68.0,
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "98882086-fc11-45b3-95f0-7031ccc6ea39",
+    "date": "2025-12-26",
+    "description": "Internet bill",
+    "amount": 49.99,
+    "category": "Bills",
+    "type": "expense"
+  },
+  {
+    "id": "16ec1213-6e16-4c1f-809b-35a63bf3b0fc",
+    "date": "2025-12-28",
+    "description": "Gym membership",
+    "amount": 35.0,
+    "category": "Other",
+    "type": "expense"
+  },
+  {
+    "id": "323baf62-2b03-4fc5-953e-a204af3021fd",
+    "date": "2025-12-30",
+    "description": "New Year eve party supplies",
+    "amount": 44.8,
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "1f20f872-fd7d-4b01-a511-fbaed6efe347",
+    "date": "2026-01-01",
+    "description": "Monthly rent",
+    "amount": 1200.0,
+    "category": "Bills",
+    "type": "expense"
+  },
+  {
+    "id": "55cc9674-6a38-49d7-a33f-2ab6278a15a9",
+    "date": "2026-01-03",
+    "description": "Weekly grocery shop",
+    "amount": 72.1,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "382f033e-7849-4eaf-9a5b-521f7c327a17",
+    "date": "2026-01-05",
+    "description": "Gas fill-up",
+    "amount": 58.0,
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "828b07b5-fad0-43d9-80f4-6ecbbaef19db",
+    "date": "2026-01-07",
+    "description": "Electricity bill",
+    "amount": 82.4,
+    "category": "Bills",
+    "type": "expense"
+  },
+  {
+    "id": "27acd9ce-2ae8-494d-974e-1af3a4a8a8fa",
+    "date": "2026-01-09",
+    "description": "Coffee shop",
+    "amount": 14.2,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "ad3ac7fb-9d05-4a5d-ab6d-a5270d67bafc",
+    "date": "2026-01-11",
+    "description": "Spotify premium",
+    "amount": 9.99,
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "0c315e55-a8e6-4f68-8d31-0e6d46b7818e",
+    "date": "2026-01-13",
+    "description": "New shoes",
+    "amount": 89.95,
+    "category": "Shopping",
+    "type": "expense"
+  },
+  {
+    "id": "e64662b8-6567-43cc-9d21-c40c89feb3eb",
+    "date": "2026-01-15",
+    "description": "Grocery shopping",
+    "amount": 66.45,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "2373cdfe-a2cd-4687-b542-187ea85992d9",
+    "date": "2026-01-17",
+    "description": "Bus pass",
+    "amount": 38.0,
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "066bb576-c597-4ac0-ae8e-87fac465139c",
+    "date": "2026-01-19",
+    "description": "Cinema + popcorn",
+    "amount": 34.0,
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "16520244-4ccd-423c-aa70-83da124a5be8",
+    "date": "2026-01-21",
+    "description": "Phone bill",
+    "amount": 45.0,
+    "category": "Bills",
+    "type": "expense"
+  },
+  {
+    "id": "7e529093-4a86-4885-bd09-c94187982556",
+    "date": "2026-01-23",
+    "description": "Takeaway pizza",
+    "amount": 22.5,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "3c038d84-791b-474a-83e0-98eb32087cba",
+    "date": "2026-01-25",
+    "description": "Online book purchase",
+    "amount": 18.99,
+    "category": "Shopping",
+    "type": "expense"
+  },
+  {
+    "id": "2e6be9bd-20dc-4b50-bb4e-7511ca8343b9",
+    "date": "2026-01-27",
+    "description": "Haircut",
+    "amount": 30.0,
+    "category": "Other",
+    "type": "expense"
+  },
+  {
+    "id": "61d8625e-e21c-4b3c-9201-d28e7cd7fc56",
+    "date": "2026-01-29",
+    "description": "Grocery run",
+    "amount": 58.75,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "d472ebfb-5366-4811-aab9-2002b5b8acf4",
+    "date": "2026-02-01",
+    "description": "Monthly rent",
+    "amount": 1200.0,
+    "category": "Bills",
+    "type": "expense"
+  },
+  {
+    "id": "0de94bf7-af9b-4e4e-af2e-180ebf8f36ca",
+    "date": "2026-02-02",
+    "description": "Grocery shopping",
+    "amount": 79.3,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "aeefbc0d-6479-40fd-95d4-8696a1f23693",
+    "date": "2026-02-04",
+    "description": "Taxi to airport",
+    "amount": 42.0,
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "b1197cda-67e7-484d-a4e6-d37ca2f1f619",
+    "date": "2026-02-06",
+    "description": "Water bill",
+    "amount": 35.8,
+    "category": "Bills",
+    "type": "expense"
+  },
+  {
+    "id": "831d81a3-4563-45b0-b5fa-0b7f5ca2a98b",
+    "date": "2026-02-08",
+    "description": "Sushi dinner",
+    "amount": 74.0,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "549451a9-eb78-4479-a003-8133906c087a",
+    "date": "2026-02-10",
+    "description": "Amazon order - household",
+    "amount": 56.45,
+    "category": "Shopping",
+    "type": "expense"
+  },
+  {
+    "id": "b3d0b556-f0b7-40e9-8bc6-34c3a6d24e1a",
+    "date": "2026-02-12",
+    "description": "Streaming services bundle",
+    "amount": 25.98,
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "7f36b751-52d7-4073-98dc-47a47cd1a35e",
+    "date": "2026-02-14",
+    "description": "Valentine's dinner",
+    "amount": 120.0,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "2175516a-5835-430e-9d35-0dd6bfe00b12",
+    "date": "2026-02-16",
+    "description": "Metro card",
+    "amount": 45.0,
+    "category": "Transport",
+    "type": "expense"
+  }
+]
